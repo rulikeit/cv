@@ -1,0 +1,70 @@
+/* #*/ export const PERSON = `
+name:
+  first: Sergey
+  middle:
+  last: Muntyanu
+
+position: Software Developer (Full-stack JavaScript)
+
+birth:
+  year: 15.08.1994
+  location: Karaganda
+
+experience:
+- company: Codex-Soft
+  position: Software Developer (Full-stack JavaScript)
+  timeperiod: since January 2018
+  description: "I worked on 2 projects. First project was related with content. It consisted of 3 parts: admin part for collecting and preparing content for display, shop with content plugins and toolbars for sold content display. On this project I was React developer and set up CI process for parts of project. Second project is CMS for museums that helps for users to create application in few steps for display some museum content. I'm working on this project as Full-stack JavaScript developer."
+
+education:
+- degree: JavaScript Developer
+  timeperiod: September 2017 - January 2018
+  description: The Rolling Scopes School
+
+- degree: Javascript Developer
+  timeperiod: January 2017 - March 2017
+  description: Itransition
+
+- degree: Mathematician
+  timeperiod: September 2012 - June 2017
+  description: Belarusian State University
+
+# skill level goes 0 to 100
+skills:
+- name: JavaScript
+  level: 100
+- name: Node.js
+  level: 100
+- name: React
+  level: 100
+- name: Vue.js
+  level: 100
+- name: HTML5
+  level: 100
+- name: CSS3
+  level: 100
+- name: MongoDB
+  level: 100
+- name: PostgreSQL
+  level: 100
+- name: Git
+  level: 100
+- name: Docker
+  level: 100
+- name: Docker Compose
+  level: 100
+- name: Python
+  level: 100
+
+knowledge: Currently I'm working with ECMAScript 6+ Edition.
+  Working with Node.js frameforks as like Feathers, Express, Fastify.
+  Used React with Redux, Redux-Thunk/Saga and Vue.js with Vuex.
+  I have experience with Mongo/Postgres CLI and used ORMs Mongose (Mongo) and Sequelize (Postgres).
+
+contact:
+  email: muntyanu.s.v@yandex.com
+  phone: +375 29 198 54 40
+  city: Minsk
+
+lang: en
+`
